@@ -1,8 +1,12 @@
 #include <stdio.h>
-/*
+/**
+ * main - Entry point
  *
+ * This program prints the size of various types on the computer it is compiled
+ * and run on. The types included in this program are char, int, long int,
+ * long long int, and float.
  *
- * somethidn
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
